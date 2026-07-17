@@ -1,1 +1,1 @@
-# FSA---File-Extension-Analyzer
+# FSA-File-Extension-Analyzer
